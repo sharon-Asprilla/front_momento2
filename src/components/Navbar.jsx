@@ -1,8 +1,10 @@
+import { Link } from "react-router-dom";
+
 const Navbar  = () =>{
     return(
         <aside>
             <nav>
-                <h2>Zenith Bonsai </h2>
+                 <Link to="/Home">Zenith Bonsai</Link>
                 <a href="">filosofia</a>
                 <a href="">galeria</a>
                 <a href="">reservas</a>
