@@ -7,19 +7,19 @@ import Home from "../pages/Home"
 export let routerApp=[
     {
         path:"/",
-        element:<home/>
+        element:<Home/>
     },
     {
         path:"/filosofia",
-        element:<filosofia/>
+        element:<Filosofia/>
     },
     {
         path:"/galeria",
-        element:<galeria/>
+        element:<Galeria/>
     },
     {
         path:"/reservas",
-        element:<reservas/>
+        element:<Reservas/>
     },
       
 

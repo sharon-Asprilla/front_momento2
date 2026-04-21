@@ -14,3 +14,5 @@ const Navbar  = () =>{
         </aside>
     )
 }
+
+export default Navbar
