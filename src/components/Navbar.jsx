@@ -2,7 +2,7 @@ const Navbar  = () =>{
     return(
         <aside>
             <nav>
-                <img src="src\assets\logo.nav.png" alt="" />
+                <h2>Zenith Bonsai </h2>
                 <a href="">filosofia</a>
                 <a href="">galeria</a>
                 <a href="">reservas</a>

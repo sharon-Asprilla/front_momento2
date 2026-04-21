@@ -1,1 +1,37 @@
 @import "tailwindcss";
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  list-style: none;
+  text-decoration: none;
+}
+
+nav{
+  display: flex;
+  align-items: center;
+  flex-wrap: 1 wrap;
+  justify-content: space-between;
+  background-color: #e0e0dc;
+  padding: 1rem;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+  font-weight: 400;
+
+}
+
+
+footer{
+  border-top: 1px solid;
+  text-align: center;
+  padding: 22px 0;
+  font-size: 14px;
+  color: #5a675a;
+
+
+}

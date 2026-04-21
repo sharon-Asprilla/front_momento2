@@ -1,6 +1,18 @@
 const Footer = () =>{
     return (
-        <footer/>
+       
+
+<div >
+ 
+
+  <footer >
+    <p> © 2026 Zenith Bonsai Studio.</p>
+  </footer>
+
+</div>
+    
+        
+        
             
     )
 }
